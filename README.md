@@ -1,10 +1,10 @@
-# CE5972 - Optimisation Techniques in Transportation Engineering
+# CE5972 - Optimization Techniques in Transportation Engineering
 
 ### Objectives
 
-- To model complex transportation problems and solve them using suitable optimisation methods
-- To develop fundamental understanding of different optimisation techniques applied in transportation engineering
-- To interpret solutions derived from optimisation models and make informed managerial decisions in real-world transportation scenarios
+- To model complex transportation problems and solve them using suitable optimization methods
+- To develop fundamental understanding of different optimization techniques applied in transportation engineering
+- To interpret solutions derived from optimization models and make informed managerial decisions in real-world transportation scenarios
 
 ### Content
 
