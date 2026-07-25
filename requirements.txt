@@ -4,7 +4,7 @@ jupyterbook-patches==1.11.5         # pin to last version before include-read ev
 sphinx-image-inverter
 
 # docutils version for reference page formatting
-docutils==0.17.1
+docutils>=0.20,<0.22
 
 # now list the packages (and the respective url) you wish to download from the GitLab package registry
 --extra-index-url https://gitlab.tudelft.nl/api/v4/projects/11239/packages/pypi/simple
