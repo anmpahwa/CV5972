@@ -1,4 +1,4 @@
-# CE5972 - Optimization Techniques in Transportation Engineering
+# CV5972 - Optimization Techniques in Transportation Engineering
 
 ### Objectives
 
