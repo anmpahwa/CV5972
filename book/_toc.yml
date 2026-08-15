@@ -28,20 +28,14 @@ parts:
     - file: content/lecture_20.ipynb
     - file: content/lecture_21.ipynb
     - file: content/lecture_22.ipynb
-    # - file: content/lecture_23.ipynb
-    # - file: content/lecture_24.ipynb
-    # - file: content/lecture_25.ipynb
-    # - file: content/lecture_26.ipynb
-    # - file: content/lecture_27.ipynb
-    # - file: content/lecture_28.ipynb
-    # - file: content/lecture_29.ipynb
-    # - file: content/lecture_30.ipynb
-    # - file: content/lecture_31.ipynb
-    # - file: content/lecture_32.ipynb
-    # - file: content/lecture_33.ipynb
-    # - file: content/lecture_34.ipynb
-    # - file: content/lecture_35.ipynb
-    # - file: content/lecture_36.ipynb
-    # - file: content/lecture_37.ipynb
-    # - file: content/lecture_38.ipynb
-    # - file: content/lecture_39.ipynb
+    - file: content/lecture_23.ipynb
+    - file: content/lecture_24.ipynb
+    - file: content/lecture_25.ipynb
+    - file: content/lecture_26.ipynb
+    - file: content/lecture_27.ipynb
+    - file: content/lecture_28.ipynb
+    - file: content/lecture_29.ipynb
+    - file: content/lecture_30.ipynb
+    - file: content/lecture_31.ipynb
+    - file: content/lecture_32.ipynb
+    - file: content/lecture_33.ipynb
