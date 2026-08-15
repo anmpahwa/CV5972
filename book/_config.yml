@@ -28,7 +28,7 @@ sphinx:                                              # Options passed on to the 
       path_to_docs: "book"                           # Required for edit_page_button, should be book if you're using TeachBooks package (https://github.com/TeachBooks/TeachBooks) or the TeachBooks deploy book workflow (https://teachbooks.io/manual/external/deploy-book-workflow/README.html)
       repository_branch: "main"                      # Replace when you change the name of your published branch (required for edit_page_button)
       use_edit_page_button: true                     # Replace with false if you don't want the edit page button (i.e. if you don't user to propose changes themselves or have a private repo)
-      use_repository_button: false                    # Replace with false if you don't want the repository button (i.e. if you have a private repo)
+      use_repository_button: false                   # Replace with false if you don't want the repository button (i.e. if you have a private repo)
       use_issues_button : true                       # Replace with false if you don't want the issues button (i.e. if you don't want to use GitHub issues or have a private repo)
       launch_buttons:
         thebe: true                                  # Required for live code: https://teachbooks.io/manual/features/live_code.html
