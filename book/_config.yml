@@ -41,5 +41,4 @@ sphinx:                                              # Options passed on to the 
       }
   extra_extensions:                                  
     - jupyterbook_patches                            # Patches by TeachBooks https://github.com/TeachBooks/JupyterBook-Patches
-    - download_link_replacer                         # Allows you to replace and add downloadable files to a page header https://teachbooks.io/manual/external/Download-Link-Replacer/README.html
     - sphinx_image_inverter                          # Inverts images for dark mode https://teachbooks.io/manual/external/Sphinx-Image-Inverter/README.html
